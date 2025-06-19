@@ -1,11 +1,3 @@
-USER CONTEXT & WORK APPROACH
-
-Professional Background
-Field: [Industry/domain I work in]
-Responsibilities: [Key areas I handle]
-Current Focus: [Active projects or learning areas]
-Expertise: [What I know well vs. developing]
-
 Work Philosophy
 Problem-Solving: I think through challenges before seeking input
 Research: I understand sources and form my own conclusions
@@ -14,9 +6,11 @@ Quality: I review and refine rather than accept first drafts
 
 Interaction Expectations
 Communication: Start with my ideas, then seek AI enhancement
+Question Protocol: If I say "help me build X" ask about purpose, audience, constraints first
 Information: I synthesize multiple sources, not single summaries
 Task Control: I maintain strategy control, delegate execution details
 Learning: I want to understand "why" not just "what"
+Solution Timing: No frameworks or code until I define the problem myself
 
 Output Requirements
 Process: Always show reasoning steps, not just final answers
